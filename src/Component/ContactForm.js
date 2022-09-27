@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useForm } from "react-hook-form";
 import Grid2 from "@mui/material/Unstable_Grid2"; // Grid version 2
-import Button from "@mui/material/button";
+import Button from "@mui/material/Button";
 import SendIcon from "@mui/icons-material/Send";
 
 const ContactForm = () => {
